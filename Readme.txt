@@ -1,0 +1,1 @@
+The lecturer gave us two assignments in the first project, so I decided to show it in separate repos. You can see the artificial neural network project in this repo.
